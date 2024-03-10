@@ -40,7 +40,6 @@ if (change == 0 ){
 
 
 
-
     printf("%d\n ",coins);
 }
 
