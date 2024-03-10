@@ -39,6 +39,9 @@ if (change == 0 ){
    }//printf(" pennies %d",coins);
 
 
+
+
+
     printf("%d\n ",coins);
 }
 
